@@ -12,7 +12,11 @@ h1 {
     font-size: 36px;
     color: #232323;
     margin: 0;
+<<<<<<< HEAD
 
+=======
+    text-align: center;
+>>>>>>> parent of 63e8dd5 (css_align-items)
 }
 
 nav {
