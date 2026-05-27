@@ -8,6 +8,9 @@ $(function(){
         $('.popup-container').css('display', 'none');
     };
 
+    let clearForm = function(){
+        $('.popup-container > input[type="text"]').val('');
+    };
 
     $('.order-call').on('click', function(){
         showPopup();
